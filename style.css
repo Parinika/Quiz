@@ -55,7 +55,7 @@ div.transbox p
 input{
     cursor: pointer;
 }
-#button
+.button
 {
     padding: 1rem 3rem;
     outline: none;
