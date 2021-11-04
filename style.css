@@ -13,7 +13,16 @@ body {
 }
 div.heading
 {
+    margin: 30px;
+    background-color: lightgray;
+    opacity: 0.7;
+    min-width: 50vw;
+    min-height: 85vh;
+    padding: 5%;
+    place-items: center;
     text-align: center;
+    align-self: center;
+    border-radius: 0.7rem;
 }
 div.transbox
 {
