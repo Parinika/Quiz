@@ -11,6 +11,10 @@
 body {
     background-image: url("backgroundmain.jpg");
 }
+div.heading
+{
+    text-align: center;
+}
 div.transbox
 {
     margin: 30px;
