@@ -11,7 +11,7 @@
 body {
     background-image: url("backgroundmain.jpg");
 }
-div.heading
+div.Starting
 {
     margin: 30px;
     background-color: lightgray;
@@ -55,7 +55,7 @@ div.transbox p
 input{
     cursor: pointer;
 }
-.button
+#button .btn
 {
     padding: 1rem 3rem;
     outline: none;
